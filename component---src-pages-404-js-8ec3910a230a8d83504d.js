@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{w2l6:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),i=a("Wbzz"),l=a("Bl7J"),c=a("vrFN");t.default=function(){return r.a.createElement(l.a,{pageTitle:"birşeyler yanlış gitti:("},r.a.createElement(c.a,{title:"404: Not found"}),r.a.createElement(i.Link,{className:"btn btn-primary",to:"/"},"Anasayfaya Dön"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-8ec3910a230a8d83504d.js.map
